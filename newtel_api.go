@@ -78,7 +78,7 @@ func (n *NewTel) CallPassword(to, code string) (*CallPasswordResponse, error) {
 	if err != nil {
 		return nil, err
 	}
-	println(string(resp))
+	//println(string(resp))
 	callResponse := new(CallPasswordResponse)
 	err = json.Unmarshal(resp, callResponse)
 	return callResponse, err
