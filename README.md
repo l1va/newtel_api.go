@@ -1,5 +1,5 @@
-# New-tel golang client 
-A Golang client for communicating with the New-tel API
+# New-Tel golang client 
+A Golang client for communicating with the New-Tel API
 
 ## Features 
 
