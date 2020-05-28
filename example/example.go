@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/l1va/newtel_api.go"
+	"github.com/new-tel/newtel_api.go"
 )
 
 func main() {
