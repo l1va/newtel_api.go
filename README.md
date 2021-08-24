@@ -41,4 +41,5 @@ func main() {
 RU documentation could be found 
 [here](https://web.new-tel.net/public/New-Tel%20API%20reference.pdf)    
 
-
+## Swagger link
+https://swagger.new-tel.net/
